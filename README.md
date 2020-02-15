@@ -48,7 +48,7 @@ Um exemplo para o padrão de criação é o *Observer*
 Este estudo cobrirá os seguintes padrões:
 - [Singleton](singleton/)
 - [Factory](factory/)
-    - [Simple Factory](#factory/#simple-factory)
+    - [Simple Factory](factory/#simple-factory)
     - [Factory Method](#)
     - [Abstract Factory](#)
 - [Façade](#)
