@@ -67,3 +67,8 @@ print("Objeto criado: ", Singleton.get_instance()) # objeto é criado aqui
 s1 = Singleton() # instância já criada
 print(s1)
 ```
+
+## Desvantagens de se utilizar o padrão Singleton
+- Variáveis globais podem ser alteradas por engano em um lugar e, como o desenvoledor pode achar que elas permaneceram inalteradas, as variáveis poderão acabar sendo usadas em outro lugar na aplicação;
+- Várias referências podem ser criadas para o mesmo objeto. Como o Singleton cria apenas um objeto, várias referências podem ser criadas nesse ponto para o mesmo objeto;
+- Todas as classes que são dependeentes de variáveis globai acabam se tornando altamente acopladas, pois uma mudança feita por uma classe no dado global poderá inadvertidamente exercer impscto em outra classe;
