@@ -62,4 +62,4 @@ Este estudo cobrirá os seguintes padrões:
 
 # TODO: 
     - Documentar os padrões acima ainda não linkados;
-    - Elaborar material para PA;
+    - Elaborar material para Lighting Talk;
