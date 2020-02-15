@@ -45,14 +45,14 @@ Os padrões comportamentais possuem as seguintes propriedades:
 
 Um exemplo para o padrão de criação é o *Observer*
 
-
-# Singleton
-# Factory
-# Façade
-# Proxy
-# Observer
-# Command
-# Template-Method
-# MVC
-# State
-# Antipatterns
+Este estudo cobrirá os seguintes padrões:
+- [Singleton](singleton/README.md)
+- [Factory](#)
+- [Façade](#)
+- [Proxy](#)
+- [Observer](#)
+- [Command](#)
+- [Template-Method](#)
+- [MVC](#)
+- [State](#)
+- [Antipatterns](#)
