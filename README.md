@@ -49,13 +49,17 @@ Este estudo cobrirá os seguintes padrões:
 - [Singleton](singleton/)
 - [Factory](factory/)
     - [Simple Factory](factory/#simple-factory)
-    - [Factory Method](#)
-    - [Abstract Factory](#)
-- [Façade](#)
-- [Proxy](#)
-- [Observer](#)
-- [Command](#)
-- [Template-Method](#)
-- [MVC](#)
-- [State](#)
-- [Antipatterns](#)
+    - Factory Method
+    - [Abstract Factory
+- Façade
+- Proxy
+- Observer
+- Command
+- Template-Method
+- MVC
+- State
+- Antipatterns
+
+# TODO: 
+    - Documentar os padrões acima ainda não linkados;
+    - Elaborar material para PA;
