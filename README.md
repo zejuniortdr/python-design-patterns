@@ -52,7 +52,7 @@ Este estudo cobrirá os seguintes padrões:
 - [Factory](factory/)
     - [Simple Factory](factory/#simple-factory)
     - Factory Method
-    - [Abstract Factory
+    - Abstract Factory
 - Façade
 - Proxy
 - Observer
