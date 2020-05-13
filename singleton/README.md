@@ -1,7 +1,7 @@
 # Singleton
 
 O padrão *Singleton* proporciona uma forma de ter um e somente um objeto de determinado tipo além de disponibilizar um ponto de acesso global.
-Este padrão normalmente é usado em casos como logging, operações de banco de dados spollers de impressão, e em vários outros cenários onde é necessário garantir que exista somente uma instância disponível para toda a aplicação, para evitar requisições conflitantes para o mesmo recurso.
+Este padrão normalmente é usado em casos como logging, operações de banco de dados, spollers de impressão, e em vários outros cenários onde é necessário garantir que exista somente uma instância disponível para toda a aplicação, para evitar requisições conflitantes para o mesmo recurso.
 
 ## E como podemos implementar esse padrão em python?
 
