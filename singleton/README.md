@@ -6,8 +6,8 @@ Este padrão normalmente é usado em casos como logging, operações de banco de
 ## E como podemos implementar esse padrão em python?
 
 Existem duas formas:
-    1. Sobrescrever o método `__new__` da classe;
-    2. Utilizar *lazy initialization*;
+* Sobrescrever o método `__new__` da classe;
+* Utilizar *lazy initialization*;
 
 
 ### Sobrescrever o `__new__`:
