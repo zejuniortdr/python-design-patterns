@@ -47,7 +47,7 @@ Os padrões comportamentais possuem as seguintes propriedades:
 
 Um exemplo para o padrão de criação é o *Observer*.
 
-Este estudo cobrirá os seguintes padrões:
+## Este estudo cobrirá os seguintes padrões:
 - [Singleton](singleton/)
 - [Factory](factory/)
     - [Simple Factory](factory/#simple-factory)
